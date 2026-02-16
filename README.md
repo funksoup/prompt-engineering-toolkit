@@ -7,6 +7,15 @@ An interactive educational tool demonstrating prompt engineering concepts and be
 ![OpenAI](https://img.shields.io/badge/OpenAI-API-green)
 ![Anthropic](https://img.shields.io/badge/Anthropic-Claude-purple)
 
+## Screenshots
+
+### Basic vs Advanced Prompts
+![Basic vs Advanced](screenshots/basic-vs-advanced.jpg)
+
+### Few-Shot Learning
+![Few-Shot](screenshots/few-shot.jpg)
+
+
 ## 🌟 Features
 
 ### 📊 Four Learning Modules
