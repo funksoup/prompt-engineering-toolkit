@@ -208,8 +208,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👤 Author
 
 **Josephine Dorado**
-- GitHub: [@[your-username]](https://github.com/[your-username])
+- GitHub: [@funksoup](https://github.com/funksoup)
 - LinkedIn: [funksoup](https://linkedin.com/in/funksoup)
+- Immersive Learning Portfolio: [coda.io/funksoup](https://coda.io/@funksoup/immersive-learning)
 - Portfolio: [funksoup.com](https://funksoup.com)
 
 ## 🙏 Acknowledgments
@@ -221,5 +222,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 **Note:** This is an educational tool. API usage will incur costs based on your OpenAI and Anthropic pricing plans. Monitor your usage carefully.
-
-💡 *"I don't just use AI—I teach people how to harness its potential."*
